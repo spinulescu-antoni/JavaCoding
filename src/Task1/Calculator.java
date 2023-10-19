@@ -31,4 +31,7 @@ public class Calculator {
     public float adunare(){
         return termenUnu + termenDoi;
     }
+    public float scadere(){
+        return  termenUnu - termenDoi;
+    }
 }
